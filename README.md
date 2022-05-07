@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @PlayDad
-- 👀 I’m interested in HTML, CSS, JavaScript, Node.js, Svelte
-- 🌱 I’m currently learning coding and web development
-- 📫 How to reach me playd4d.me@gmail.com
+- 👀 I’m interested in HTML, CSS, JavaScript, Node.js, Svelte and other weird stuff
+- 🌱 I’m currently learning coding and web development just for fun
+- 📫 How to reach me playd4d.me( at )gmail.com
 
 Most of this stuff will be useless to anybody else than me. :-)
 
